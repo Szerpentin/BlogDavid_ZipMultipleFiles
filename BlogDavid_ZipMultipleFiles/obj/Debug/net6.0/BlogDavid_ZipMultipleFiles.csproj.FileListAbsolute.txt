@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\bin\Debug\net6.0\BlogDavid_ZipMultipleFiles.exe
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\bin\Debug\net6.0\BlogDavid_ZipMultipleFiles.deps.json
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\bin\Debug\net6.0\BlogDavid_ZipMultipleFiles.runtimeconfig.json
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\bin\Debug\net6.0\BlogDavid_ZipMultipleFiles.dll
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\bin\Debug\net6.0\BlogDavid_ZipMultipleFiles.pdb
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\BlogDavid_ZipMultipleFiles.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\BlogDavid_ZipMultipleFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\BlogDavid_ZipMultipleFiles.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\BlogDavid_ZipMultipleFiles.AssemblyInfo.cs
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\BlogDavid_ZipMultipleFiles.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\BlogDavid_ZipMultipleFiles.dll
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\refint\BlogDavid_ZipMultipleFiles.dll
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\BlogDavid_ZipMultipleFiles.pdb
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\BlogDavid_ZipMultipleFiles.genruntimeconfig.cache
+C:\Users\david\source\repos\blog\BlogDavid_ZipMultipleFiles\BlogDavid_ZipMultipleFiles\obj\Debug\net6.0\ref\BlogDavid_ZipMultipleFiles.dll
